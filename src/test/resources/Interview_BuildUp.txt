@@ -1,0 +1,40 @@
+1. Tell me something about yourself (less than 60 seconds)
+------------------------------------
+They have your resume. 
+introduce yourself - name
+little about education (skip)
+total numbers of experience - 3+ years as an SDET / BA
+talk about different domains - Banking, E-Commerce, Pharmacy, Automobiles, Aeronotical, Health, Insurance, Telecomm
+I started my career like _____________________ and now you are ______________________
+
+
+2. How much would you rate yourself in Java / Automation / SQL / BA
+
+3. Technical - Java . SQL , Manual , Automation
+               Ask you to share your screen and you write the code in front of them
+4. Receive a bootcamp from a company - if you are able to submit the bootcamp then we will have the technical F2F discussion
+
+Acceptance Criteria - coding challenge
+Submit the code
+
+5. If the interviewer will ask about your project experience. 
+
+
+Bank of America is interested in her profile
+they will ask about her experience in USBank
+
+only and only if you have thoroughly gone through your PD documents
+
+
+
+
+I am getting interviewed - Automation Architect
+
+he asks about my latest employer and the project
+
+it is a ________ domain Project
+my role in this project - I was working as an Architect as well as a Technical Project Manager
+
+I joined in the 2nd phase of the project. Framework was already established. Data Driven approach
+
+

@@ -1,0 +1,17 @@
+Summary:
+Results-driven automation tester with 3+ years of experience in web-based and client-server application testing. Proficient in Agile methodologies, designing test automation frameworks using Selenium WebDriver, Java, Cucumber, IntelliJ, and TestNG. Skilled in BDD test scenarios, backend testing with SQL queries, and web service testing with Postman and REST-Assured. Strong team player with excellent collaboration skills.
+
+Technical Details:
+
+Analyzing User Stories in Agile Scrum environment
+Designing, developing, and maintaining test automation frameworks using Selenium WebDriver, Java, Cucumber, IntelliJ, and TestNG
+Object-Oriented Programming language: Java
+Experience with Selenium WebDriver, Selenium IDE, and Selenium Automation tool
+Web-based testing including Black Box Test, Smoke Test, Regression Test, Functional Test, Backend Test, Positive Test, and Negative Test
+Automating test cases using BDD framework with Cucumber, Java, and Selenium WebDriver
+Developing Data-Driven Test Automation framework using Java, Selenium, and TestNG on IntelliJ IDE
+Expertise in Object Identification using XPATH, CSS Selectors, HTML ID, and Tag
+Developing automation frameworks to increase productivity and efficiency of testing teams
+Proficient in back end testing with SQL queries
+Manual and automated web service testing using Postman and automating RESTful web services testing with Java libraries like REST-Assured
+Reporting defects using JIRA
