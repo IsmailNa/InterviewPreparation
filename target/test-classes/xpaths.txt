@@ -1,0 +1,90 @@
+//html[@attribute = 'value']
+//html[@attribute1 = 'value' and @attribute2 = 'value']
+//html[@attribute1 = 'value' or @attribute2 = 'value']
+
+//html[text() = 'valueofthetext']
+
+//html[contains(text(), 'valueoftext')]
+//html[contains(@attribute, 'value')]
+
+//html[starts-with(@attribute, 'startvalue')]
+//html[ends-with(@attribute, 'endvalue')]
+-----------------------------------------------------------
+following-sibling
+preceding-sibling
+following
+preceding
+parent
+child
+ancestor
+descendant
+--------------------------------------------------------------
+absolute xpath
+
+relative / customized / dynamic
+----------------------------------------------------------
+//a[@class = 'signin']
+//input[@id = 'login1' and @name = 'login']
+//input[@id = 'login1' or @name = 'login']
+
+//u[text() = 'Forgot Password?']
+//u[contains(text(), 'Forgot Password?')]
+
+//input[contains(@class, 'signinbtn')]
+
+//a[starts-with(@class, 'sig')]
+
+//div[@id = 'div-gpt-ad-3167999-3']
+//div[starts-with(@id, 'div-gpt-ad-')]
+
+
+//div[@id = '3167999-0-div-gpt-ad']
+//div[ends-with(@id, '-div-gpt-ad')]
+
+-----------------------------------------------------------
+<html>
+ <head> ..... </head>
+ <body> ..... </body>
+</html>
+--------------------------------------------------
+GrandFather > Father > Son
+
+Son is child of Father
+Son is descendant of Father
+Son is descendant of Grandfather
+Son is not child of GrandFather
+Grandafather is not the parent of son
+--------------------------------------------------------
+//a[@class = 'signin']/following-sibling::a[1]
+//p[@id = 'signin_info']/child::a[2]
+//p[@id = 'signin_info']/child::a[text() = 'Create Account']
+//p[@id = 'signin_info']/child::a[contains(text(), 'Create Account')]
+//span[@id = 'username']/following::a[2]
+//span[@id = 'username']/following-sibling::p/child::a[2]
+//input[@id = 'OAS_subsection']/following::a[text() = 'Create Account']
+//input[@id = 'OAS_subsection']/following-sibling::div[@class = 'logobar']/descendant::p/child::a[2]
+
+//div[@id = 'red_container_main']/preceding-sibling::div[@id = 'div_advt_x01']/preceding::a[1]
+//div[@id = 'red_container_main']/preceding-sibling::div[@id = 'div_advt_x01']/preceding::a[text() = 'Create Account']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
